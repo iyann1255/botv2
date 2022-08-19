@@ -67,10 +67,10 @@ global.nameown = 'Iyan-store'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288223735605'],
-  ['6288223735605'],
-  ['6288223735605'],
-  ['6288223735605', 'Iyan-store', true]
+  ['6289516947204'],
+  ['6289516947204'],
+  ['6289516947204'],
+  ['6289516947204', 'Iyan-store', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
